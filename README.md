@@ -25,7 +25,7 @@ PROJETO desenvolvido para testes de TDD. Aprendizado de desenvolvimento guiado p
 O projeto consiste em testar funcionalidades de autenticação para o controller principal.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="./screenshots/testetddcmd.png" width="620px" />
+    <img alt="Example" title="Example" src="./github/testetddcmd.png" width="620px" />
 </h1>
 
 ## :rocket: Tecnologias
