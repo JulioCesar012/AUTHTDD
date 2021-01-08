@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="AuthTDD" title="#AUTHTDD" src="./github/testetdd.png" width="250px" />
+    <img alt="AuthTDD" title="#AUTHTDD" src="./github/testetdd.png" width="620px" />
 </h1>
 
 <h4 align="center">
@@ -25,7 +25,7 @@ PROJETO desenvolvido para testes de TDD. Aprendizado de desenvolvimento guiado p
 O projeto consiste em testar funcionalidades de autenticação para o controller principal.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="./screenshots/telaInicial.png" width="500px" />
+    <img alt="Example" title="Example" src="./screenshots/testetddcmd.png" width="620px" />
 </h1>
 
 ## :rocket: Tecnologias
@@ -93,12 +93,6 @@ Os arquivos de testes se encontram na pasta __tests__ dentro de integration e un
 
 Testei apenas testes de integração e unitários. Fique a vontade para testar outras funções, etc.
 ```
-
-:camera: Outra imagem
-
-<h1 align="center">
-    <img alt="AuthTDD" title="#AUTHTDD" src="./github/testetddcmd.png" width="250px" />
-</h1>
 
 Desenvolvido com ♥ por @JulioCesar012 :wave: [Me contate!](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
 
