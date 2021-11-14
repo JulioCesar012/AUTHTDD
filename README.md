@@ -59,7 +59,7 @@ O banco de dados para a aplicação para os testes é o sqlite.
 
 ## :information_source: Requisitos para rodar
 
-- [Yarn][yarn] e [Node.js: versão utilizada v14.15.0][nodejs]
+- Yarn: [yarn] e [Node.js: versão utilizada v14.15.0][nodejs]
 
 ## :information_source: Como instalar
 
