@@ -59,7 +59,7 @@ O banco de dados para a aplicação para os testes é o sqlite.
 
 ## :information_source: Requisitos para rodar
 
-- Yarn: [yarn] e [Node.js: versão utilizada v14.15.0][nodejs]
+- [Yarn][yarn] e [Node.js: versão utilizada v14.15.0][nodejs]
 
 ## :information_source: Como instalar
 
@@ -96,6 +96,7 @@ Testei apenas testes de integração e unitários. Fique a vontade para testar o
 
 Desenvolvido com ♥ por @JulioCesar012 :wave: [Me contate!](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
 
+[yarn]: https://classic.yarnpkg.com/en/docs/getting-started
 [nodejs]: https://nodejs.org/
 [bcryptjs]: https://www.npmjs.com/package/bcryptjs
 [dotenv]: https://www.npmjs.com/package/dotenv
